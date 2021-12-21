@@ -33,4 +33,5 @@
 <a href="https://github.com/Braderlala"><img height="27" src="https://pngimg.com/uploads/github/github_PNG15.png" alt="GitHub"></a>
 <a href="https://twitter.com/Braderlala"><img src="https://img.shields.io/twitter/url?label=twitter&style=social&url=https%3A%2F%2Ffaisalfs10x.github.io" alt="Twitter"></a> 
 <a href="https://braderlala.github.io/"><img src="https://img.shields.io/badge/Blog-Braderlala-brightgreen" alt="Blog"></a> 
+<a href="https://t.me/Braderlala"><img title="Telegram" src="https://img.shields.io/badge/-Telegram-blue"></a>
 </p>
