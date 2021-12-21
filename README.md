@@ -13,9 +13,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Braderlala&layout=compact&theme=blueberry"/>|<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Braderlala&theme=blueberry&hide_langs_below=1"/>
 |---|---|
 
-<a href="https://github.com/Braderlala">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Braderlala&theme=blueberry&hide_langs_below=1" />
-</a>
 
 
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"></code>
