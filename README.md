@@ -10,7 +10,7 @@
 |---|---|
 
 ## Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Braderlala&layout=compact&theme=blueberry)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Braderlala&layout=compact&theme=blueberry"/>|<img src=https://github-readme-stats.vercel.app/api/top-langs/?username=Braderlala&theme=blueberry&hide_langs_below=1"/>
 
 <a href="https://github.com/Braderlala">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Braderlala&theme=blueberry&hide_langs_below=1" />
