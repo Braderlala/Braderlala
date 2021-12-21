@@ -26,3 +26,8 @@
 <a href="https://github.com/Braderlala/Mywebdav"><img title="bruteforce" src="https://github-readme-stats.vercel.app/api/pin/?username=Braderlala&repo=Mywebdav&theme=radical"></a>
 <a href="https://github.com/Braderlala/Myhtml"><img title="bruteforce" src="https://github-readme-stats.vercel.app/api/pin/?username=Braderlala&repo=Myhtml&theme=radical"></a>
 <a href="https://github.com/Braderlala/shell-finder"><img title="bruteforce" src="https://github-readme-stats.vercel.app/api/pin/?username=Braderlala&repo=shell-finder&theme=radical"></a>
+
+## Find Me:
+
+<a href="https://github.com/Braderlala"><img height="27" src="https://pngimg.com/uploads/github/github_PNG15.png" alt="GitHub"></a>
+<a href="https://twitter.com/Braderlala"><img src="https://img.shields.io/twitter/url?label=twitter&style=social&url=https%3A%2F%2Ffaisalfs10x.github.io" alt="Twitter"></a> 
