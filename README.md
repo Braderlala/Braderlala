@@ -22,7 +22,7 @@
 
 ## My Tool:
 
-<a href="https://github.com/Braderlala/bruteforce"><img title="MyDdos" src="https://github-readme-stats.vercel.app/api/pin/?username=Braderlala&repo=MyDdos&theme=radical"></a>
+<a href="https://github.com/Braderlala/MyDdos"><img title="MyDdos" src="https://github-readme-stats.vercel.app/api/pin/?username=Braderlala&repo=MyDdos&theme=radical"></a>
 <a href="https://github.com/Braderlala/Mywebdav"><img title="bruteforce" src="https://github-readme-stats.vercel.app/api/pin/?username=Braderlala&repo=Mywebdav&theme=radical"></a>
 <a href="https://github.com/Braderlala/Myhtml"><img title="bruteforce" src="https://github-readme-stats.vercel.app/api/pin/?username=Braderlala&repo=Myhtml&theme=radical"></a>
 <a href="https://github.com/Braderlala/shell-finder"><img title="bruteforce" src="https://github-readme-stats.vercel.app/api/pin/?username=Braderlala&repo=shell-finder&theme=radical"></a>
